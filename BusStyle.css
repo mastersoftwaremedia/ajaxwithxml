@@ -22,7 +22,7 @@ h1{
 	height: 102px;
 	background-image:url('images/greyhound3.jpg');
 	background-repeat: no-repeat;
-	text-indent: 99999999999999999999;
+	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
 }

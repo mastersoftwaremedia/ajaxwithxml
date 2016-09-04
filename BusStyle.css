@@ -1,0 +1,91 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:700,400);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+	background-color:#fff;
+	color: #666;
+	font-family:'Open Sans', arial, sans-serif;
+	width: 1000px;
+	margin: 0 auto;
+}
+header{
+	display:block;
+	height: 140px;
+	border-bottom: 5px solid #000;
+	margin-bottom: 30px;
+}
+h1{
+	font-weight: normal;
+	margin: 28px 0 0 0;
+	float: left;
+	width: 300px;
+	height: 102px;
+	background-image:url('images/greyhound3.jpg');
+	background-repeat: no-repeat;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+h2{
+	font-size: 2.4em;
+	margin: 0.7em 0 1.7em 0;
+	padding: 0;
+	color: #000;
+	line-height:1em;
+	letter-spacing: -.06em;
+}
+.destination {
+  width: 300px;
+  float: left;
+  text-align: center;}
+.destination p {
+	border-right: 1px solid #999; }
+.destination:nth-child(3) p{
+		border-right: none;
+}
+.destination:last-child p{
+	border-right: none;
+}
+.half{
+	padding-top:60px;
+	width: 480px;
+	float: left;
+	text-align: center;
+}
+form{
+	margin: 0 0 0 90px;
+	width: 300px;
+}
+label{
+	display:block;
+	text-align: left;
+	padding-top: 10px;
+	text-transform: uppercase;
+}
+input{
+	border: none;
+	border-radius: 5px;
+	background-color: #dcdcdc;
+	font-size: 1em;
+	line-height: 1em;
+	width: 280px;
+	padding: 6px 10px;
+}
+input[type=submit]{
+	background-color:#1fb684;
+	color:#fff;
+	font-weight: bold;
+	width: 8em;
+	padding: 8px 20px;
+	margin-top: 10px;
+	text-transform: uppercase;
+	clear: left;
+	float: right;
+}
+input[type=submit]:hover{
+	background-color:#666;
+	cursor: pointer;
+}
+
+
+

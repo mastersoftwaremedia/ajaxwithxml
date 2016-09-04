@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<schedules>
+	<schedule>
+		<destination>New York to Hartford</destination>
+		<date>9/4/2016</date>
+		<img>images/map-ny.jpg</img>
+		<price>Starting @ $22.00</price>
+	</schedule>
+	<schedule>
+		<destination>New York to Boston</destination>
+		<date>9/6/2016</date>
+		<img>images/map-ny.jpg</img>
+		<price>Starting @ $21.50</price>
+	</schedule>
+	<schedule>
+		<destination>New York to Albany</destination>
+		<date>9/8/2016</date>
+		<img>images/map-ny.jpg</img>
+		<price>Starting @ $14.00</price>
+	</schedule>
+	<schedule>
+		<destination>New York to Washington</destination>
+		<date>9/6/2016</date>
+		<img>images/map-ny.jpg</img>
+		<price>Starting @ $22.50</price>
+	</schedule>
+	<schedule>
+		<destination>New York to Mount Laurel</destination>
+		<date>9/5/2016</date>
+		<img>images/map-ny.jpg</img>
+		<price>Starting @ $19.00</price>
+	</schedule>
+	<schedule>
+		<destination>New York to Atlantic City</destination>
+		<date>9/8/2016</date>
+		<img>images/map-ny.jpg</img>
+		<price>Starting @ $25.00</price>
+	</schedule>
+</schedules>
+
